@@ -2,7 +2,7 @@
   "name": "recipe-builder-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://pavankulkarni123.github.io/upliance_assignment",
+  "homepage": "https://pavankulkarni123.github.io/upliance_assignment/recipe",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
