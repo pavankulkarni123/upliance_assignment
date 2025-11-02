@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/upliance_assignment/recipe/static/js/main.9a2f196c.js",
-    "index.html": "/upliance_assignment/recipe/index.html",
-    "main.9a2f196c.js.map": "/upliance_assignment/recipe/static/js/main.9a2f196c.js.map"
+    "main.js": "/upliance_assignment/static/js/main.9a2f196c.js",
+    "index.html": "/upliance_assignment/index.html",
+    "main.9a2f196c.js.map": "/upliance_assignment/static/js/main.9a2f196c.js.map"
   },
   "entrypoints": [
     "static/js/main.9a2f196c.js"
